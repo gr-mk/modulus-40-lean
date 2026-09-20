@@ -1,0 +1,2399 @@
+{
+  "source": "Nielsen (2009), sections 4.1-4.4",
+  "families": [
+    {
+      "source": "4.1",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 6,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.2",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 4,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.2",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.2",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": 3,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.2",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.2 extra 81",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 4,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": 3,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 4,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -4,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": 3,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 4,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -4,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 4
+        }
+      ]
+    },
+    {
+      "source": "4.3",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 4
+        }
+      ]
+    },
+    {
+      "source": "4.3 extra 125",
+      "selectors": [
+        {
+          "p": 5,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 4
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -4,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -4,
+          "digit": 2
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -4,
+          "digit": 3
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -4,
+          "digit": 4
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 2
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -5,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -5,
+          "digit": 2
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -5,
+          "digit": 3
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -5,
+          "digit": 4
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 5,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 6,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 1,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 3,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 6,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 6,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 6,
+          "center": 0,
+          "digit": 0
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 4
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 5
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 6
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 20,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -6,
+          "digit": 6
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 4
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 5
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 6
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 5,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 4,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -1,
+          "digit": 6
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 1,
+          "hi": 1,
+          "kind": "fixed",
+          "residue": 0,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 3
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 4
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 5
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 2,
+          "hi": 2,
+          "kind": "fixed",
+          "residue": 2,
+          "center": 0,
+          "digit": 0
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 1
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 6
+        }
+      ]
+    },
+    {
+      "source": "4.4",
+      "selectors": [
+        {
+          "p": 2,
+          "lo": 3,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": -2,
+          "digit": 1
+        },
+        {
+          "p": 3,
+          "lo": 1,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 2
+        },
+        {
+          "p": 7,
+          "lo": 2,
+          "hi": null,
+          "kind": "ray",
+          "residue": 0,
+          "center": 0,
+          "digit": 6
+        }
+      ]
+    }
+  ],
+  "local_quotient": {
+    "2": {
+      "depth": 6,
+      "centers": [
+        -4,
+        -2,
+        -1,
+        0
+      ],
+      "selectors": 17,
+      "atoms": 8
+    },
+    "3": {
+      "depth": 4,
+      "centers": [
+        -6,
+        -1,
+        0
+      ],
+      "selectors": 14,
+      "atoms": 8
+    },
+    "5": {
+      "depth": 3,
+      "centers": [
+        -5,
+        -4,
+        0
+      ],
+      "selectors": 18,
+      "atoms": 15
+    },
+    "7": {
+      "depth": 2,
+      "centers": [
+        -6,
+        -1,
+        0
+      ],
+      "selectors": 24,
+      "atoms": 22
+    }
+  }
+}

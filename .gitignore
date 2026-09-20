@@ -1,0 +1,10 @@
+.lake/
+tmp/
+.DS_Store
+__pycache__/
+*.pyc
+*.olean
+*.ilean
+*.trace
+# The archival monolithic certificate is versioned as a lossless gzip archive.
+/data/certificates/support-rup.json

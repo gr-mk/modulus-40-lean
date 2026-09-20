@@ -1,0 +1,10 @@
+[
+  {
+    "certificate": 0,
+    "gate": 36863,
+    "blocks": 12,
+    "initial": 9021,
+    "steps": 3521,
+    "module": "Modulus40.MinimumSAT.Cert000"
+  }
+]
