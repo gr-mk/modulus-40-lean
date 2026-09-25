@@ -12,6 +12,12 @@ list of integer congruence classes that covers **every integer**, has **pairwise
 distinct moduli**, and has **smallest modulus exactly 40**. The expanded theorem
 `Modulus40.exists_distinct_covering_minimum40` exposes these properties directly.
 
+An investigation of Tyler Owens's *A Covering System with Minimum Modulus 42*
+is in `Modulus42/`. **The minimum-42 theorem has not been proved.** Lean verifies
+a gap in the claimed coverage at §3.8 after the modulus-55 class is moved in
+§3.5. The precise scope, counterexample, and reproduction commands are in
+[`notes/modulus42-status.md`](notes/modulus42-status.md).
+
 ## Build and audit
 
 The project pins Lean 4.24.0 and mathlib v4.24.0. With elan installed:
